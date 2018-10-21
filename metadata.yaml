@@ -1,5 +1,5 @@
 _repo: Wild-Beasts-and-Their-Ways-Reminiscences-of-Europe-Asia-Africa-and-America-Volume-1_3657
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,6 +29,7 @@ subjects:
 - !lcsh 'Animal behavior'
 - !lcsh 'Hunting'
 - !lcc 'SK'
+- GITenberg
 title: Wild Beasts and Their Ways, Reminiscences of Europe, Asia, Africa and America
   — Volume 1
 url: http://www.gutenberg.org/ebooks/3657
